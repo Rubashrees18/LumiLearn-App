@@ -31,6 +31,6 @@ Feel free to submit issues and pull requests! Here’s how you can help:
 3. Push to the branch: git push origin feature/YourFeature.
 4. Open a pull request and describe your contribution.
 
-Contact - 
+**Contact**
 For questions or feedback, please reach out via **roshansabeha.aids22@mamcet.com**
 
